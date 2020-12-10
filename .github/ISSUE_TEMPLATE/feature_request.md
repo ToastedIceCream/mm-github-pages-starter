@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 新功能2
 about: Suggest an idea for this project
 title: ''
 labels: ''
